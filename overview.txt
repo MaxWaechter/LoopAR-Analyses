@@ -1,0 +1,3 @@
+This will be the first stept to build a repo for the loopAR data.
+It will include preprocessed data as well as the Ipython notebooks
+in Jupyter or Colaboratory notebooks. for future analyses
